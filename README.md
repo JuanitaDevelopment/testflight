@@ -9,10 +9,11 @@ for learning
 2. Create a simple app
 3. Test the app
 
-# Risk and Opportunity
-- TBD
-- 
+## Risk and Opportunity
+- TBD 1
+- TBD 2
 
 ## References
 We will collect any reference documents here.
-- TBD
+- https://github.com/juanitadevelopment/testflight
+
