@@ -7,3 +7,4 @@ for learning
 ## Project Ideas
 1. Create a simple website
 2. Create a simple app
+3. Test the app
