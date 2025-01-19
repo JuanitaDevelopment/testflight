@@ -9,6 +9,10 @@ for learning
 2. Create a simple app
 3. Test the app
 
+# Risk and Opportunity
+- TBD
+- 
+
 ## References
 We will collect any reference documents here.
 - TBD
